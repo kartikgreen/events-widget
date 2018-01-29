@@ -1,5 +1,4 @@
 import { Component, Prop, State, Element, Listen  } from '@stencil/core';
-import 'https://www.gstatic.com/charts/loader.js';
 declare var google: any;
 @Component({
   tag: 'app-charts',
